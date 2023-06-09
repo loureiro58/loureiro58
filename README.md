@@ -1,4 +1,4 @@
-## Olá! Eu sou o Matheus Loureiro 🚀 <div align="right">
+## Olá! Eu sou o Matheus Loureiro 🚀 
 Bacharel em Ciência da Computação e pós-graduado em Administração Pública, Planejamento e Gestão Governamental, atuo como analista de sistema com foco no setor público.
 
 Possuo vasta experiência em captura e entendimento das necessidades de projetos, modelagem de banco de dados e desenvolvimento de soluções amigáveis. Minha trilha de atuação percorre todo o ciclo de vida do projeto, iniciando na definição da arquitetura do sistema, levantamento de requisitos, aperfeiçoamento do negócio, projeto de software, modelagem do banco de dados e desenvolvimento da solução atuando como fullstack.
