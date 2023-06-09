@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Matheus Loureiro 🚀 <div align="right">
 Bacharel em Ciência da Computação e pós-graduado em Administração Pública, Planejamento e Gestão Governamental, atuo como analista de sistema com foco no setor público.
 
-Minhas principais habilidades na área são como engenheiro de software, projetista de sistemas, desenvolvedor Java Spring, DBA DB2 e Oracle, AD.
-
 Possuo vasta experiência em captura e entendimento das necessidades de projetos, modelagem de banco de dados e desenvolvimento de soluções amigáveis. Minha trilha de atuação percorre todo o ciclo de vida do projeto, iniciando na definição da arquitetura do sistema, levantamento de requisitos, aperfeiçoamento do negócio, projeto de software, modelagem do banco de dados e desenvolvimento da solução atuando como fullstack.
+
+Minhas principais habilidades na área são como engenheiro de software, projetista de sistemas, desenvolvedor Java Spring, DBA DB2 e Oracle, AD.
 
 <a href = "mailto:loureiro58@gmail.com" target="_blank">
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
